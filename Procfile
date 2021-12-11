@@ -1,0 +1,1 @@
+web gunicorn myecomm.wsgi:application --log-file -
